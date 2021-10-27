@@ -1,6 +1,7 @@
 package guru.spring.springpetclinic.models;
 
 public class PetType extends BaseEntity{
+
     private String name;
 
     public String getName() {
